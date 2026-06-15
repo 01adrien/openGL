@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/adrien/Desktop/openGL/build/cmake_install.cmake",
+		"/home/adrien/Desktop/openGL/build/external/glfw/cmake_install.cmake",
+		"/home/adrien/Desktop/openGL/build/external/glfw/src/cmake_install.cmake",
+		"/home/adrien/Desktop/openGL/build/external/glfw/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
